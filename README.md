@@ -10,6 +10,7 @@ IOS: _coming soon_
 ## 📖 Table of content
 
 - Screenshots
+- Features
 - Usage
 - Technologies used
 - Requirements
@@ -23,18 +24,8 @@ IOS: _coming soon_
 
 <center><a href="https://www.instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
 
-## ⚙️ Usage
-
-Recipes App can be used as backbone for a big project that includes fetching Data from mySQL Database or any type of relational Databases.
-
-## Getting Started
-To run the app, simply run
-
-``` npm install && expo start ```
-
-And scan the QR code in the Expo client app.
-
 ## Features
+
 - Recipes List
 - Categories
 - Ingredients
@@ -50,3 +41,48 @@ And scan the QR code in the Expo client app.
 - Beautiful UI Design Kit
 - Compatible with Expo
 - Highly modularized codebase
+
+## ⚙️ Usage
+
+Recipes App can be used as backbone for a big project that includes fetching Data from mySQL Database or any type of relational Databases.
+
+## ⚙️ Technologies used
+
+- React Native
+
+## ⚙️ Requirements
+
+- Terminal (i.e: [Hyper](https://hyper.is/))
+- Code Editor (i.e: [VScode](https://code.visualstudio.com/download))
+- Browser (i.e: [Chrome](https://www.google.com/chrome/))
+- Stable internet Connection
+- Mobile Device (OPTIONAL)
+
+## 📌 Installation And RUnning the project
+
+1 - Installing Node
+
+https://nodejs.org/en/download/
+
+2- Installing all Dependencies
+
+```bash
+npm install
+```
+
+## 📍 Note
+
+In case you got stuck at any point, checkout the official
+documentation of [REACT NATIVE](https://reactnative.dev/).  
+I will try to explain everything you need to know as comments in each file.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open  
+ an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
