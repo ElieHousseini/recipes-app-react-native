@@ -2,11 +2,22 @@
 
 _It's a Recipes App for American/Italian Food._
 
-## 📱 DOWNLOAD LINK
+## 📱 DOWNLOAD
 
 Android: [here](https://expo.io/artifacts/78360755-6fcd-41fe-b844-a36ee5dfd8b3)  
 IOS: _coming soon_
 
+## 📖 Table of content
+
+- Screenshots
+- Usage
+- Technologies used
+- Requirements
+- Installation
+- Useful commands
+- Note
+- Contributing
+- License
 
 <center><a href="https://www.instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
 
