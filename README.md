@@ -2,7 +2,7 @@
 
 _It's a Recipes App for American/Italian Food._
 
-## 🎬 DOWNLOAD LINK
+## 📱 DOWNLOAD LINK
 
 Android: [here](https://expo.io/artifacts/78360755-6fcd-41fe-b844-a36ee5dfd8b3)  
 IOS: _coming soon_
