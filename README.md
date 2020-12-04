@@ -58,7 +58,7 @@ Recipes App can be used as backbone for a big project that includes fetching Dat
 - Stable internet Connection
 - Mobile Device (OPTIONAL)
 
-## 📌 Installation And RUnning the project
+## 📌 Installation And Running the project
 
 1 - Installing Node
 
